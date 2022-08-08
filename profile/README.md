@@ -12,14 +12,14 @@ Technology that escapes our understanding is technology that controls us ; this 
 
 ## How ?
 
-Design is a task that starts on paper with a properly-defined use case for a properly-defined user. Coding happens last. Code editors should not be opened until the problem(s) and the solution(s) are all laid out on paper. If no use case, then no problem, then no solution, then to coding, then enjoy mojitos and sunsets on the beach.
+Design is a task that starts on paper with a properly-defined use case for a properly-defined user. Coding happens last. Code editors should not be opened until the problem(s) and the solution(s) are all laid out on paper. If no use case, then no problem, then no solution, then no coding, then enjoy mojitos and sunsets on the beach and give a break to your computer. 
 
-A well-managed project is one that incurs less work as time goes by. If you find yourself with an increasing amount of work, question your management.
+A well-managed project is one that incurs less work as time goes by. If you find yourself with an increasing amount of work, question your project management.
 
 ## Who ?
 
-I'm trained as a classical pianist and in Newtonian physics, with mechanical engineering applications (thermodynamics, structural calculations & design). I have authored a thermodynamics computational Python library (proprietary software), a perceptual color space (darktable UCS 22) and many color manipulation algorithms. I enjoy clean maths that simulate, predict and revert physical processes through numerical computations. 
+I'm trained as a classical pianist and in Newtonian physics, with mechanical engineering applications (metrology, thermodynamics, structural calculations & design). I have authored a thermodynamics computational Python library (proprietary software), a perceptual color space (darktable UCS 22) and many color manipulation algorithms. I enjoy clean maths that simulate, predict and revert physical processes through numerical computations. 
 
-I find myself completely overwhelmed by the crazy modern life and the unreasonable number of variables and things we have to handle in a typical day, which is why I try to get things under control by relying on the least amount of techs and tools. 
+I find myself completely overwhelmed by the crazy modern life and the unreasonable number of variables and things we have to handle in a typical day, which is why I try to get things under control by relying on the least amount of techs and tools, and minimizing the daily overhead. 
 
-I teach photo editing by constantly looping between artistic and technical aspects, and I firmly believe what my piano teachers repeated : technics are there to serve artistic intent. Both are important, but one is the goal and the other is only the mean. Direct interaction with users is what drives my design in image processing matters.
+I teach photo editing by constantly looping between artistic and technical aspects, and I firmly believe what my piano teachers repeated : technics are there only to serve artistic intent. Both are important, but one is the goal and the other is only the mean. Direct interaction with users is what drives my design in image processing matters.
