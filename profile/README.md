@@ -21,3 +21,5 @@ A well-managed project is one that incurs less work as time goes by. If you find
 I'm trained as a classical pianist and in Newtonian physics, with mechanical engineering applications (thermodynamics, structural calculations & design). I have authored a thermodynamics computational Python library (proprietary software), a perceptual color space (darktable UCS 22) and many color manipulation algorithms. I enjoy clean maths that simulate, predict and revert physical processes through numerical computations. 
 
 I find myself completely overwhelmed by the crazy modern life and the unreasonable number of variables and things we have to handle in a typical day, which is why I try to get things under control by relying on the least amount of techs and tools. 
+
+I teach photo editing by constantly looping between artistic and technical aspects, and I firmly believe what my piano teachers repeated : technics are there to serve artistic intent. Both are important, but one is the goal and the other is only the mean. Direct interaction with users is what drives my design in image processing matters.
