@@ -12,7 +12,7 @@ Technology that escapes our understanding is technology that controls us ; this 
 
 ## How ?
 
-Design is a task that starts on paper with a properly-defined use case for a properly-defined user. Coding happens last. Code editors should not be opened until the problem(s) and the solution(s) are all laid out on paper. If no use case, then no problem, then no solution, then no coding, then enjoy mojitos and sunsets on the beach and give a break to your computer. 
+Design is a task that starts on paper with a properly-defined use case for a properly-defined user. Coding happens last. Code editors should not be opened until the problem(s) and the solution(s) are all laid out on paper. If no use case, then no problem, then no solution, then no coding, then enjoy mojitos and sunsets on the beach, and give some rest to your eyes away from LED panels. 
 
 A well-managed project is one that incurs less work as time goes by. If you find yourself with an increasing amount of work, question your project management.
 
