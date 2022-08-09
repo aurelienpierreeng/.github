@@ -14,7 +14,7 @@ Technology that escapes our understanding is technology that controls us ; this 
 
 Design is a task that starts on paper with a properly-defined use case for a properly-defined user. Coding happens last. Code editors should not be opened until the problem(s) and the solution(s) are all laid out on paper. If no use case, then no problem, then no solution, then no coding, then enjoy mojitos and sunsets on the beach, and give some rest to your eyes away from LED panels. 
 
-A well-managed project is one that incurs less work as time goes by. If you find yourself with an increasing amount of work, question your project management. Clever people are lazy. Being lazy means working less, then tiring less, and therefore working with a clearer mind and an healthier body: all that leads to better quality of work. Being lazy also promotes minimalism which helps maintainability and keeps the overhead low.
+A well-managed project is one that incurs less work as time goes by. If you find yourself with an increasing amount of work, question your project management. Clever people are lazy. Being lazy means working less, then tiring less, and therefore working with a clearer mind and an healthier body: all that leads to better quality of work. Being lazy also promotes minimalism which helps maintainability and keeps the overhead low. This makes for long-term sanity of the projects.
 
 ## Who ?
 
