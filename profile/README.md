@@ -6,7 +6,7 @@ I don't program because I enjoy it *(I don't)*, I program because our lives ar
 
 ## What ?
 
-The best solutions are the simplest, the best tools are the simplest, the best life is the simplest. If simple tools can't accomodate your workflow, your workflow is to probably to blame. 
+The best solutions are the simplest, the best tools are the simplest, the best life is the simplest. If simple tools can't accomodate your workflow, your workflow is probably to blame, not the tools.
 
 Technology that escapes our understanding is technology that controls us ; this is unacceptable. Thus programming **is** political.
 
