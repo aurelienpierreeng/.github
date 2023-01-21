@@ -23,3 +23,7 @@ I'm trained as a classical pianist and in Newtonian physics, with mechanical eng
 I find myself completely overwhelmed by the crazy modern life and the unreasonable number of variables and things we have to handle in a typical day, which is why I try to get things under control by relying on the least amount of techs and tools, and minimizing the daily overhead. 
 
 I teach photo editing by constantly looping between artistic and technical aspects, and I firmly believe what my piano teachers repeated : technics are there only to serve artistic intent. Both are important, but one is the goal and the other is only the mean. Direct interaction with users is what drives my design in image processing matters.
+
+---
+
+![](https://i.redd.it/grd6620oujca1.jpg)
